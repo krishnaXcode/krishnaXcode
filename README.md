@@ -8,22 +8,21 @@
 </p>
 
 <!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnayadav9140078209-wq-&color=FFA500&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=krishnaXcode&color=FFA500&style=flat-square" />
 </p> -->
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnayadav9140078209-wq-&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnayadav9140078209-wq-&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaXcode&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaXcode&theme=tokyonight&hide_border=true" />
 </p>
 
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnayadav9140078209-wq-&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaXcode&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 -->
 
@@ -51,12 +50,11 @@
 
 ## 📊 GitHub Contribution Graph
 
-<a href="https://github.com/krishnayadav9140078209-wq-">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnayadav9140078209-wq-&bg_color=000000&color=ffffff&line=FFA500&point=ffffff&area=true&hide_border=true" />
+<a href="https://github.com/krishnaXcode">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaXcode&bg_color=000000&color=ffffff&line=FFA500&point=ffffff&area=true&hide_border=true" />
 </a>
 
 ---
-
 
 ## 🌐 Connect with Me
 
@@ -70,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://github.com/krishnayadav9140078209-wq-" target="_blank">
+<a href="https://github.com/krishnaXcode" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
