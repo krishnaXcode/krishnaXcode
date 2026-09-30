@@ -70,7 +70,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://www.instagram.com/username_krishna_/" target="_blank">
+<a href="https://www.instagram.com/_username__krishna_/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
